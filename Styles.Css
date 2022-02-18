@@ -1,0 +1,25 @@
+#h1{
+    background-color: darkkhaki;
+    color: darkorange;
+    width: max-content;
+}
+#style{
+    background-color: darkolivegreen;
+    color: darkred;
+}
+#Home{
+background-color: blueviolet;
+}
+#About{
+    background-color: red;
+}
+#Details{
+    background-color: cadetblue;
+}
+#Contact-us{
+    background-color: yellowgreen;
+}
+.text-design{
+    background-color: darkcyan;
+    color: darkgreen;
+}
