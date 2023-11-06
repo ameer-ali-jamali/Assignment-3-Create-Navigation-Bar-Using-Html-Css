@@ -1,25 +1,58 @@
-#h1{
-    background-color: darkkhaki;
-    color: darkorange;
-    width: max-content;
+#h1 {
+  background-color: darkkhaki;
+  color: darkorange;
+  width: max-content;
 }
-#style{
-    background-color: darkolivegreen;
-    color: darkred;
+#style {
+  background-color: darkolivegreen;
+  color: darkred;
 }
-#Home{
-background-color: blueviolet;
+#Home {
+  background-color: blueviolet;
 }
-#About{
-    background-color: red;
+#About {
+  background-color: red;
 }
-#Details{
-    background-color: cadetblue;
+#Details {
+  background-color: cadetblue;
 }
-#Contact-us{
-    background-color: yellowgreen;
+#Contact-us {
+  background-color: yellowgreen;
 }
-.text-design{
-    background-color: darkcyan;
-    color: darkgreen;
+.text-design {
+  background-color: darkcyan;
+  color: darkgreen;
+}
+/* Add your CSS styles here for consistent design */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 0 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-design {
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
 }
